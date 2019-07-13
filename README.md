@@ -3,7 +3,8 @@ I wrote this when i was 16-17 years
 
 How to use:
 
-Function has 3 arguments. First is just image. Second is reduce number (by default 0). Third is detalization (by default 0), detalization is the difference between pixels in RGB at which we can think that these are different pixels.
+Function has 3 arguments. First is just image. Second is reduce number (by default 0).
+Third is detalization (by default 0), detalization is the difference between pixels in RGB at which we can think that these are different pixels.
 
 Example:
 
