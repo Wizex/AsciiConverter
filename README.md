@@ -11,6 +11,7 @@ Example:
 import cv2
 import VTA
 
+
 image_path = 'image.png'
 image = cv2.imread(image_path)
 
