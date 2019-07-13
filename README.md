@@ -8,10 +8,13 @@ Third is detalization (by default 0), detalization is the difference between pix
 
 Example:
 
-import cv2, VTA
+```
+import cv2
+import VTA
 
 
 image_path = 'image.png'
 image = cv2.imread(image_path)
 
 VTA.convert_image_to_ascii(img, 2, 0)
+```
