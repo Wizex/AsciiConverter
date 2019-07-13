@@ -8,8 +8,7 @@ Third is detalization (by default 0), detalization is the difference between pix
 
 Example:
 
-import cv2
-import VTA
+import cv2, VTA
 
 
 image_path = 'image.png'
