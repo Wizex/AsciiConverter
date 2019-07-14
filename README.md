@@ -1,5 +1,5 @@
 # AsciiConverter
-I wrote this when i was 16-17 years
+I wrote this when i was 16-17 years.
 
 How to use:
 
@@ -18,3 +18,5 @@ image = cv2.imread(image_path)
 
 VTA.convert_image_to_ascii(image, 2, 0)
 ```
+
+After that will be create text file in project folder.
