@@ -18,4 +18,4 @@ image = cv2.imread(image_path)
 VTA.convert_image_to_ascii(image, 2, 0)
 ```
 
-After that will be create text file in project folder.
+After that will be created text file in project folder.
