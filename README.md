@@ -2,6 +2,8 @@
 
 How to use:
 
+First you need to install OpenCV
+
 Function has 3 arguments. First is just image. Second is how many times reduce number (by default 0).
 Third is detalization (by default 0), detalization is the difference between pixels in RGB at which we can think that these are different pixels.
 
