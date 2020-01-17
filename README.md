@@ -17,7 +17,7 @@ import VTA
 image_path = 'image.png'
 image = cv2.imread(image_path)
 
-VTA.convert_image_to_ascii(image, 2, 0)
+VTA.convert_image_to_ascii(image, 6, 0)
 ```
 
 After that will be created text file in project folder.
