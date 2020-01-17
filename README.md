@@ -21,3 +21,7 @@ VTA.convert_image_to_ascii(image, 6, 0)
 ```
 
 After that will be created text file in project folder.
+
+
+![Image:](https://i.pinimg.com/originals/7f/f7/d9/7ff7d93eaa14a904e3e35013fb7550fd.png)
+
