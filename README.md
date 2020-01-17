@@ -25,7 +25,7 @@ After that will be created text file in project folder.
 
 Image:
 
-![Image](https://www.meme-arsenal.com/memes/3369a827c6fd79e26fe09fc3a0de5c36.jpg)
+![Image](https://www.meme-arsenal.com/memes/10011cf79bc51c44500cb010efe1b582.jpg)
 
 
 Image converted to ASCII:
